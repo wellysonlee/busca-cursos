@@ -3,7 +3,7 @@
         'name' => 'wellysonlee/buscador-cursos',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => 'db6fc0774505f94af40827ff59e9f299ab5eeb85',
+        'reference' => '087b6d40f15b923a7bb119a5e46494b0eba6f30e',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -100,6 +100,15 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
+        'symfony/css-selector' => array(
+            'pretty_version' => 'v6.3.2',
+            'version' => '6.3.2.0',
+            'reference' => '883d961421ab1709877c10ac99451632a3d6fa57',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../symfony/css-selector',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
         'symfony/deprecation-contracts' => array(
             'pretty_version' => 'v3.4.0',
             'version' => '3.4.0.0',
@@ -139,7 +148,7 @@
         'wellysonlee/buscador-cursos' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => 'db6fc0774505f94af40827ff59e9f299ab5eeb85',
+            'reference' => '087b6d40f15b923a7bb119a5e46494b0eba6f30e',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
