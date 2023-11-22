@@ -13,5 +13,8 @@
             "email": "martinsgwellyson@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "guzzlehttp/guzzle": "^7.8",
+        "symfony/dom-crawler": "^7.0.0-RC1"
+    }
 }
